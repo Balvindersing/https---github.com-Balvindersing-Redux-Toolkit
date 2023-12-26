@@ -26,7 +26,7 @@ function App() {
       </div>
       <h1>React-Redux-toolKit <br /> [RTK]</h1>
       <div className='card-custom'>
-        Parent-Component
+        Parent-Compo`nent
         <div className="card">
           Count Value: {useSelectorHook}
           <br/>
